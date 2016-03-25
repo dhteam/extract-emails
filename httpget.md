@@ -1,5 +1,9 @@
 # help <a href="http://docs.python-requests.org/en/latest/index.html">http://docs.python-requests.org/en/latest/index.html</a>
 
+or
+
+#http://docs.python-requests.org/en/latest/user/quickstart/#more-complicated-post-requests
+
 #get request 
 
 >>> r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
